@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AbdullahSoboh
+- 👀 I’m interested in Software Engineering, and hardware software interaction!
+- 🌱 I’m currently learning Python, C and Java
+- 📫 Reach me through: asoboh7@gmail.com
