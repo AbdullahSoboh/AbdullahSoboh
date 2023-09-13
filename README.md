@@ -9,7 +9,7 @@
 - Bachelor of Engineering in Software Engineering from Carleton University (Third year, A+ grade average)
 
 📫 **Contact Me:**  
-- 📧 Email: asoboh7@gmail.com  
+- 📧 Email: abdullahsoboh@cmail.carleton.ca  
 - 📝 LinkedIn: [linkedin.com/in/abdullah-soboh](https://linkedin.com/in/abdullah-soboh)  
 - 📁 GitHub: [github.com/AbdullahSoboh](https://github.com/AbdullahSoboh)
 
