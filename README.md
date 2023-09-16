@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdullah Soboh!
+# 👋 Hi! I'm Abdullah Soboh.
 
 ## About Me
 👀 I'm passionate about Software Engineering with a particular interest in the interplay between hardware and software. I'm currently pursuing a Bachelor of Engineering in Software Engineering at Carleton University, Ottawa.
