@@ -5,6 +5,7 @@
 
 🌱 I’m in the process of mastering Python, C, and Java, and am delving into Flutter (Dart) for mobile development.
 
+
 📚 Education:  
 - Bachelor of Engineering in Software Engineering from Carleton University (Third year, A+ grade average)
 
@@ -20,6 +21,8 @@
 - **Libraries**: pandas, NumPy, Matplotlib
 
 ## 📈 Experience
+- **Software Engineer at Cisco**
+  - Currently building experience :)
 - **Data Engineer at Transport Canada**  
   - Worked with Python and SQL for data integration and used PowerBI for dashboard design.  
   - Developed custom Python scripts for data automation, increasing data processing speed by 17%.
